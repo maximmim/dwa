@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dwa/static/css/main.e6c13ad2.css",
+    "main.js": "/dwa/static/js/main.9ee6a2d4.js",
+    "static/js/787.f290fb9b.chunk.js": "/dwa/static/js/787.f290fb9b.chunk.js",
+    "index.html": "/dwa/index.html",
+    "main.e6c13ad2.css.map": "/dwa/static/css/main.e6c13ad2.css.map",
+    "main.9ee6a2d4.js.map": "/dwa/static/js/main.9ee6a2d4.js.map",
+    "787.f290fb9b.chunk.js.map": "/dwa/static/js/787.f290fb9b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9ee6a2d4.js"
+  ]
+}
